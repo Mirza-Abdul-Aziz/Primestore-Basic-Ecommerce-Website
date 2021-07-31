@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body { font-family: Montserrat, sans-serif; }
+#main-container{
+    padding-top: 20px;
+    background-color: lightgray;
+}
+#recent-products{
+    margin-bottom: 16px;
+}
+#button{
+    background-image: linear-gradient(to bottom right, rgb(82, 85, 82), rgb(220, 227, 227));
+    box-shadow: 5px 5px 5px #212321;
+    font-weight: bolder;
+    color: #323232;
+}
+#card-style{
+    color: #f1efef;
+    background-image: linear-gradient(to bottom right, rgb(47, 49, 47), rgb(93, 95, 95));
+    box-shadow: 10px 10px 10px #727672;
+    margin-bottom: 30px;
+}
